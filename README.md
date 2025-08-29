@@ -6,14 +6,13 @@ A stylish, minimalist HTML/CSS template for showcasing and managing links quickl
 
 ## 📌 Table of Contents
 - [Features](#-features)
-- [Installation / Clone Guide](#installation--clone-guide)
-- [Live Preview](#live-preview)
-- [Customization](#customization)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
+- [Installation / Clone Guide](#-installation--clone-guide)
+- [Live Preview](#-live-preview)
+- [Customization](#-customization)
+- [Project Structure](#-project-structure)
+- [Technologies Used](#-technologies-used)
+- [Contributing](#-contributing)
+- [Author](#-author)
 
 ---
 
