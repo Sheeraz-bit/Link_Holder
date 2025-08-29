@@ -5,7 +5,7 @@ A stylish, minimalist HTML/CSS template for showcasing and managing links quickl
 ---
 
 ## 📌 Table of Contents
-- [Features](#features)
+- [Features](#-features)
 - [Installation / Clone Guide](#installation--clone-guide)
 - [Live Preview](#live-preview)
 - [Customization](#customization)
