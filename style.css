@@ -266,6 +266,14 @@
         .github:hover::before {
             background: linear-gradient(90deg, transparent, rgba(36, 41, 46, 0.05), transparent);
         }
+        .linkedin:hover {
+            border-color: #0a66c2;
+            color: #0a66c2;
+        }
+
+        .linkedin:hover::before {
+            background: linear-gradient(90deg, transparent, rgba(29, 155, 240, 0.05), transparent);
+        }
 
         .twitter:hover {
             border-color: #1d9bf0;
@@ -282,6 +290,14 @@
         }
 
         .instagram:hover::before {
+            background: linear-gradient(90deg, transparent, rgba(228, 64, 95, 0.05), transparent);
+        }
+        .chess:hover {
+            border-color: #5f8935;
+            color: #5f8935;
+        }
+
+        .chess:hover::before {
             background: linear-gradient(90deg, transparent, rgba(228, 64, 95, 0.05), transparent);
         }
 
